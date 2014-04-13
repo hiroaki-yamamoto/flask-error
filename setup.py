@@ -13,7 +13,7 @@ Why this extension?
     This extension may reduce your coding time; you don't need
     to point whatever errors inheriting BaseException
     (The base class of Built-in Exceptions)!
-    Besides, you can defined your custom errors and raise it!.
+    Besides, you can define your custom errors and raise it.
 
 LICENSE
 Flask-Error
