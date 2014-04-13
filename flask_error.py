@@ -18,7 +18,7 @@ errorhandler = Blueprint("errorhandler", __name__)
 
 
 # If you want to create your own error,
-# inherit this base function
+# inherit this class
 class StatusReasonError(Exception):
     __status = 500
     __reason = "Error"
